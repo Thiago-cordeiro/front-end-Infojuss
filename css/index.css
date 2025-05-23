@@ -4,7 +4,7 @@
     justify-content: center;
     padding: 10%;
     height: calc(100vh - 100px);
-    background: url(../img/arvore.jpg) no-repeat  center;
+    background: url(https://thiago-cordeiro.github.io/front-end-Infojuss/img/arvore.jpg) no-repeat  center;
     background-size: cover;
 }   
 .content_hero_text{
